@@ -11,3 +11,6 @@ __pycache__/
 
 # Archivos temporales de VSCode
 .vscode/
+
+# Archivos temporales de MoviePy
+*TEMP_MPY*.mp4
